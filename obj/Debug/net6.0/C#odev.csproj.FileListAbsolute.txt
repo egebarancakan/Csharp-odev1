@@ -1,0 +1,15 @@
+C:\Users\codingGrounds\Documents\VSCode\C#odev\bin\Debug\net6.0\C#odev.exe
+C:\Users\codingGrounds\Documents\VSCode\C#odev\bin\Debug\net6.0\C#odev.deps.json
+C:\Users\codingGrounds\Documents\VSCode\C#odev\bin\Debug\net6.0\C#odev.runtimeconfig.json
+C:\Users\codingGrounds\Documents\VSCode\C#odev\bin\Debug\net6.0\C#odev.dll
+C:\Users\codingGrounds\Documents\VSCode\C#odev\bin\Debug\net6.0\C#odev.pdb
+C:\Users\codingGrounds\Documents\VSCode\C#odev\obj\Debug\net6.0\C#odev.csproj.AssemblyReference.cache
+C:\Users\codingGrounds\Documents\VSCode\C#odev\obj\Debug\net6.0\C#odev.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\codingGrounds\Documents\VSCode\C#odev\obj\Debug\net6.0\C#odev.AssemblyInfoInputs.cache
+C:\Users\codingGrounds\Documents\VSCode\C#odev\obj\Debug\net6.0\C#odev.AssemblyInfo.cs
+C:\Users\codingGrounds\Documents\VSCode\C#odev\obj\Debug\net6.0\C#odev.csproj.CoreCompileInputs.cache
+C:\Users\codingGrounds\Documents\VSCode\C#odev\obj\Debug\net6.0\C#odev.dll
+C:\Users\codingGrounds\Documents\VSCode\C#odev\obj\Debug\net6.0\refint\C#odev.dll
+C:\Users\codingGrounds\Documents\VSCode\C#odev\obj\Debug\net6.0\C#odev.pdb
+C:\Users\codingGrounds\Documents\VSCode\C#odev\obj\Debug\net6.0\C#odev.genruntimeconfig.cache
+C:\Users\codingGrounds\Documents\VSCode\C#odev\obj\Debug\net6.0\ref\C#odev.dll
